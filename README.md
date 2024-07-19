@@ -29,4 +29,4 @@ The React Movie App is a web application built with React that allows users to b
    - Rate watched movies.
    - Remove movies from the watched section.
 
-   The app will be available at [MovieT-Rax](http://localhost:3000).
+   The app will be available at [MovieT-Rax](https://mohit-movitrax-001.netlify.app/).
