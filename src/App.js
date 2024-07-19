@@ -238,7 +238,7 @@ function Logo() {
     <>
       <div className="logo">
         <span role="img">🍿</span>
-        <h1>usePopcorn</h1>
+        <h1>MovieT-rax</h1>
       </div>
     </>
   )
